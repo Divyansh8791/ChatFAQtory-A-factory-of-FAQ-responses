@@ -53,8 +53,8 @@ Each entry includes:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Divyansh8791/faqenius-chatbot.git
-cd faqenius-chatbot
+git clone https://github.com/Divyansh8791/ChatFAQtory-A-factory-of-FAQ-responses.git
+cd ChatFAQtory-A-factory-of-FAQ-responses
 ```
 ### 2. install the requirements
 ```bash
